@@ -19,5 +19,3 @@ validates :title, presence: true
    end
  end
 end
-
-  

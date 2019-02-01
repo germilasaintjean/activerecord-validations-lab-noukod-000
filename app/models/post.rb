@@ -20,7 +20,4 @@ validates :title, presence: true
  end
 end
 
-   © 2019 GitHub, Inc.
-   Terms
-   Privacy
-   Secu
+  
